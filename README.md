@@ -176,3 +176,11 @@ mount /dev/loop0p1 /mnt
 
 *报告生成日期：2026-07-31*
 *分析方法：静态逆向（未执行样本）*
+
+---
+
+## 📎 相关文档
+
+- **[实测报告](./TEST-REPORT.md)** — QEMU 实测："世界第四"真的能启动，还进了桌面
+- **[搞笑版](./README-funny.md)** — 《世界第四？先问问你家承重墙》
+- 截图：[OOBE 首次配置向导](./screenshot-oobe.png) | [桌面](./screenshot-desktop.png)
