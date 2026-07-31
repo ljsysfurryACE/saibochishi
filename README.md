@@ -186,3 +186,5 @@ mount /dev/loop0p1 /mnt
 - 截图：[OOBE 首次配置向导](./screenshot-oobe.png) | [桌面](./screenshot-desktop.png)
 
 - **[许可证合规分析](./LICENSE-REPORT.md)** — GPL 传染：busybox 的雷，可能让"世界第四"被迫开源
+
+- **[深度挖掘补充报告](./DEEP-DIVE-2.md)** — 没有网络栈 + Photoshop 元数据 + 编译残留
