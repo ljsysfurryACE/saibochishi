@@ -184,3 +184,5 @@ mount /dev/loop0p1 /mnt
 - **[实测报告](./TEST-REPORT.md)** — QEMU 实测："世界第四"真的能启动，还进了桌面
 - **[搞笑版](./README-funny.md)** — 《世界第四？先问问你家承重墙》
 - 截图：[OOBE 首次配置向导](./screenshot-oobe.png) | [桌面](./screenshot-desktop.png)
+
+- **[许可证合规分析](./LICENSE-REPORT.md)** — GPL 传染：busybox 的雷，可能让"世界第四"被迫开源
