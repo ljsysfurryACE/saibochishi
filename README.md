@@ -194,3 +194,5 @@ mount /dev/loop0p1 /mnt
 - **[深度挖掘补充报告（第四轮）](./DEEP-DIVE-4.md)** — 安全防护归零 + 调试信息全保留 + TEMP测试函数
 
 - **[反汇编深度分析](./REVERSE-ENGINEERING.md)** — GUI syscall 绕过用户内存检查 → 任意内核读写提权漏洞
+
+- **[深度挖掘补充报告（第五轮）](./DEEP-DIVE-5.md)** — 半成品实锤：图标有程序缺 + GUI 系统调用全家桶
