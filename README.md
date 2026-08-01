@@ -192,3 +192,5 @@ mount /dev/loop0p1 /mnt
 - **[深度挖掘补充报告（第三轮）](./DEEP-DIVE-3.md)** — WSL 开发 + 思源黑体改名 + 源码全暴露
 
 - **[深度挖掘补充报告（第四轮）](./DEEP-DIVE-4.md)** — 安全防护归零 + 调试信息全保留 + TEMP测试函数
+
+- **[反汇编深度分析](./REVERSE-ENGINEERING.md)** — GUI syscall 绕过用户内存检查 → 任意内核读写提权漏洞
