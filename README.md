@@ -196,3 +196,5 @@ mount /dev/loop0p1 /mnt
 - **[反汇编深度分析](./REVERSE-ENGINEERING.md)** — GUI syscall 绕过用户内存检查 → 任意内核读写提权漏洞
 
 - **[深度挖掘补充报告（第五轮）](./DEEP-DIVE-5.md)** — 半成品实锤：图标有程序缺 + GUI 系统调用全家桶
+
+- **[OpenXJ380 整改对比](./OPENXJ380-FOLLOWUP.md)** — 打脸→整改闭环：漏洞已修 + 许可证已补 + 网络/浏览器已实现
